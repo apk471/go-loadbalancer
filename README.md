@@ -64,10 +64,3 @@ curl http://localhost:8080
 ```
 
 Repeated requests will cycle through the configured servers.
-
-I've crafted a comprehensive `README.md` for your project! It covers:
-
-1.  **Project Overview**: Explains it's a Round Robin Load Balancer.
-2.  **Features**: Highlights the key technical components (Round Robin, Reverse Proxy, Health Check).
-3.  **Getting Started**: Instructions for prerequisites and how to use the `makefile` (Run, Build, Clean).
-4.  **Usage**: Explains how to test the load balancer and lists the hardcoded demo servers.
